@@ -1,0 +1,28 @@
+Bienvenue à toi cher.e candidat.e !
+
+Tu trouveras ci-dessous les consignes de ce test technique. 
+Pour rappel, nous avons volontairement choisi un test long. Ce n'est
+pas grave si tu ne finis pas le projet. L'objectif ici est surtout 
+de voir ce que tu es capable de produire un format mobile en une heure et un peu sous pression 
+en HTML, CSS et JS Natif. Ensuite tu pourras nous expliquer ce que tu as fait 
+voir ce que tu comptais faire si tu n'as pas terminé :)
+
+Nous preferons un code logique, propre et qui fonctionne plutot 
+qu'un projet "fini" qui ne marche pas :) 
+
+Tu trouveras dans ce dossier tous les assets nécessaires (images) pour developper cette 
+créa. Nous t'avons egalement fourni une "maquette" pdf pour avoir une vue d'ensemble. 
+
+Ce que nous attendons de ta production par ordre d'importance :
+
+- Un carousel infini (lorsque j'arrive à la derniere slide et que je clique
+sur la fleche de droite, le carousel revient à la première slide et inversement)
+
+- Toutes les animations sympas que tu voudrais nous montrer 
+sur le logo, le CTA, le carousel... Fais toi plaisir !
+
+- Si tu as encore du temps, un code responsive (qui s'affiche sans assets croppés sur iphone X et iphone 6, 
+l'inspecteur du navigateur sera ton ami)
+
+
+Bon courage !
